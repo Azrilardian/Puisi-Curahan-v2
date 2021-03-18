@@ -2,7 +2,7 @@
 
 ## Apa dan Tujuan
 
-Merupakan perbaikan dari website [website puisi]. Perbaikan ditujukan untuk memberikan kenyamanan kepada masyarakat atas ketidaklayakan website [website puisi] berada di internet.
+Merupakan perbaikan dari project [Puisi Curahan](https://github.com/Azrilardian/Puisi-Curahan).
 
 ## Teknologi yang digunakan
 
